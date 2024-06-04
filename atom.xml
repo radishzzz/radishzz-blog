@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>radishzz&#39;s blog</title>
-  
+  <icon>http://radishzz.cc/images/profile-graph.webp</icon>
   
   <link href="http://radishzz.cc/atom.xml" rel="self"/>
   
